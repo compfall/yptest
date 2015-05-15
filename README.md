@@ -1,0 +1,2 @@
+# yptest
+test smartSVN
